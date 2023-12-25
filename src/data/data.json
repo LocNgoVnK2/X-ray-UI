@@ -1,0 +1,107 @@
+{
+  "Header": {
+    "title": "Về dự án của của chúng tôi",
+    "paragraph": "Đây là dự án máy học phi lợi nhuận giúp nhận diện X quang phổi uqa hình ảnh"
+  },
+  "About": {
+    "paragraph": "chúng tôi cam kết đứng đầu trong việc kết hợp tiến bộ giữa lĩnh vực y tế và công nghệ. Sứ mệnh của chúng tôi là cung cấp các giải pháp sáng tạo nhằm hỗ trợ chẩn đoán chính xác và điều trị hiệu quả các bệnh về phổi thông qua ảnh X-quang ngực",
+    "Why": [
+      "Chuyên Môn Cao",
+      "Sử Dụng Mô Hình Học Máy VGG16",
+      "Giao Diện Thân Thiện",
+      "Có độ chính xác cao"
+    ],
+    "Why2": [
+      "Đội Ngũ Thực Hiện Chuyên Nghiệp",
+      "Bộ Dữ Liệu Đa Dạng từ Kaggle",
+      "Sử Dụng Công Nghệ Tiên Tiến",
+      "Cam Kết Đối Với Chất Lượng "
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/DucNgoc.jpg",
+      "name": "Đức Ngọc",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/NgoLoc.jpg",
+      "name": "Ngô Lộc",
+      "job": "Senior Developer"
+    },
+    {
+      "img": "img/team/NhuHuyen.jpg",
+      "name": "Như Huyền",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/HuyenTran.jpg",
+      "name": "Huyền Trân",
+      "job": "Content Designer"
+    },
+    {
+      "img": "img/team/TuanAnh.jpg",
+      "name": "Tuấn Anh",
+      "job": "Senior Developer"
+    },
+    {
+      "img": "img/team/people.png",
+      "name": "Một vài thành viên khác",
+      "job": "Developer Team"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Độ chính xác cao",
+      "text": "Mô hình học máy VGG16 được đào tạo chặt chẽ trên cơ sở dữ liệu ImageNet, đồng thời sử dụng các kỹ thuật tiên tiến để tối ưu hóa hiệu suất."
+    },
+    {
+      "icon": "fa fa-database",
+      "title": "Tăng cường dữ liệu",
+      "text": "Để cải thiện khả năng tự động hóa, chúng tôi đã sử dụng kỹ thuật tăng cường dữ liệu, giúp mô hình hiểu biểu cảm đa dạng của bệnh lý từ ảnh X-quang."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Phân loại bệnh tự động",
+      "text": "Chương trình sử dụng mô hình học máy VGG16 được tiền huấn luyện trên cơ sở dữ liệu ImageNet để tự động phân loại bệnh từ ảnh X-quang phổi."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Giao diện dể sử dụng",
+      "text": "Trang web cung cấp giao diện người dùng đơn giản và thân thiện, cho phép người dùng dễ dàng tải lên ảnh X-quang và nhận kết quả phân loại ngay lập tức."
+    }
+  ]
+}
